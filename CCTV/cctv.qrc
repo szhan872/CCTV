@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/CCTV">
+        <file>images/plus_sign.png</file>
+        <file>images/four.png</file>
+        <file>images/nine.png</file>
+        <file>images/six.png</file>
+    </qresource>
+</RCC>
